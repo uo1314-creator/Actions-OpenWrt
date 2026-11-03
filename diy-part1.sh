@@ -1,4 +1,7 @@
 #!/bin/bash
+echo 'src-git kiddin9 https://github.com/kiddin9/openwrt-packages;22.03' >> feeds.conf.default
+
+#!/bin/bash
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 # File name: diy-part1.sh
